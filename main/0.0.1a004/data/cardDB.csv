@@ -1,0 +1,13 @@
+id,name,info,ppty
+
+s0000,"SSSample","{'rarity': '2', 'userID': 'c000'}",{}
+
+s0001,"Sample 2","{'rarity': '3', 'userID': 'c000'}",{}
+
+a0001,SampleATK,"{'rarity': '1', 'userID': 'All'}",{}
+
+m0001,SampleSMN,"{'rarity':'1','userID':'c000'}",{}
+
+a0002,newSample,"{'rarity': '1', 'userID': 'All'}",{}
+s0002,blank,"{'rarity': '2', 'userID': 'All'}",{}
+m0002,asdf,"{'rarity': '2', 'userID': 'None'}",{}

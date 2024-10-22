@@ -1,0 +1,20 @@
+id,name,info,ppty
+
+c000,"Sample Char","{'rarity': '3','zh-name': '中文名','race': 'human','gender': 'female','age': '24','class': 'sailor','affiliate': 'Theseus','dubbing': 'bakaboen','story': '东西太多懒得加，还要格式化好麻烦','dialogue': '理由同上'}","{'health': '40','basicATK': 'print(""我普通攻击！"")'}"
+
+c002,"Frame Atwood","{'rarity': '1', 'class': 'sailor', 'dubbing': '长谷川悠', 'abbr': 'F. Atwood'}",{}
+
+c001,"Doven Yaella","{'rarity': '1', 'class': 'sailor', 'abbr': 'D. Yaella'}",{}
+
+c003,"Algae","{'rarity': '3', 'class': 'sailor', 'abbr': 'Algae'}",{}
+
+c004,"Haru Aya","{'rarity': '3', 'class': 'sailor', 'abbr': 'Haru Aya'}",{}
+
+h001,Enemy1,"{'rarity': '1', 'class': 'pirate', 'abbr': 'Enemy1'}",{}
+
+
+h002,Enemy2,"{'rarity': '2', 'class': 'pirate', 'abbr': 'Enemy2'}",{}
+
+h003,Enemy3,"{'rarity': '3', 'class': 'pirate', 'abbr': 'Enemy3'}",{}
+
+h004,Enemy4,"{'rarity': '0', 'class': 'pirate', 'abbr': 'Enemy4'}",{}

@@ -1,0 +1,18 @@
+id,name,info,ppty
+
+s0000,"basicSUP","{'rarity': '1', 'userID': 'All'}","{'cost': '0', 'effect': 'userObj.basicSUP(userObj,useeObj)'}"
+
+s0001,"SampleSUP","{'rarity': '1', 'userID': 'All'}","{'cost': '1', 'effect': 'userObj.takeHealing(5)'}"
+
+a0001,SampleATK,"{'rarity': '1', 'userID': 'All'}","{'cost': '1', 'effect': 'useeObj.takeDamage(userObj,7)'}"
+
+a0000,"basicATK","{'rarity': '1', 'userID': 'All'}","{'cost': '0', 'effect': 'userObj.basicATK(userObj,useeObj)'}"
+
+m0001,SampleSMN,"{'rarity':'1','userID':'c000'}",{}
+
+a0002,newSample,"{'rarity': '1', 'userID': 'All'}",{}
+
+s0002,blank,"{'rarity': '2', 'userID': 'All'}",{}
+
+m0002,asdf,"{'rarity': '2', 'userID': 'None'}",{}
+

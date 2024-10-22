@@ -1,0 +1,45 @@
+id,name,info,ppty
+
+s0000,"basicSUP","{'rarity': '1', 'userID': 'All'}","{'cost': '0', 'effect': 'userObj.basicSUP(userObj,useeObj)'}"
+
+s0001,"SampleSUP","{'rarity': '1', 'userID': 'All'}","{'cost': '1', 'effect': 'userObj.takeHealing(5)'}"
+
+a0001,SampleATK,"{'rarity': '1', 'userID': 'All'}","{'cost': '1', 'effect': 'useeObj.takeDamage(userObj,7)'}"
+
+a0000,"basicATK","{'rarity': '1', 'userID': 'All'}","{'cost': '0', 'effect': 'userObj.basicATK(userObj,useeObj)'}"
+
+m0001,SampleSMN,"{'rarity':'1','userID':'c000'}",{}
+
+a0002,newSample,"{'rarity': '1', 'userID': 'All'}",{}
+
+s0002,blank,"{'rarity': '2', 'userID': 'All'}",{}
+
+m0002,asdf,"{'rarity': '2', 'userID': 'None'}",{}
+
+a9001,Straight Flash,"{'rarity':'1','userID':'c901','usee':'trans','area':'obj'}","{'cost':'1','effect':''}"
+
+a9002,Piercing,"{'rarity':'1','userID':'c901','usee':'trans','area':'obj'}","{'cost':'1','effect':''}"
+
+s9001,"Practice makes perfect","{'rarity':'1','userID':'c901','usee':'cis','area':'obj'}","{'cost':'0','listener':'cardPlay','effect':'print(""还没做好"")'}"
+
+a9003,Push forward,"{'rarity':'1','userID':'c902','usee':'trans','area':'obj'}","{'cost':'1','effect':''}"
+
+s9002,Take Defence,"{'rarity':'1','userID':'c902','usee':'cis','area':'self'}","{'cost':'1','effect':''}"
+
+s9003,Stay behind,"{'rarity':'1','userID':'c902','usee':'cis','area':'obj'}","{'cost':'1','effect':''}"
+
+a9004,Poison Splash,"{'rarity':'1','userID':'c903','usee':'trans','area':'obj'}","{'cost':'1','effect':''}"
+
+a9005,Lethal Cut,"{'rarity':'1','userID':'c903','usee':'trans','area':'obj'}","{'cost':'1','effect':''}"
+
+s9004,Illed Manner,"{'rarity':'1','userID':'c903','usee':'trans','area':'obj'}","{'cost':'0','listener':'cardStart','effect':''}"
+
+a9006,Fireball,"{'rarity':'1','userID':'c904','usee':'trans','area':'obj'}","{'cost':'1','effect':''}"
+
+s9005,Regeneration,"{'rarity':'1','userID':'c904','usee':'cis','area':'obj'}","{'cost':'1','effect':''}"
+
+s9006,Curse of God,"{'rarity':'1','userID':'c904','usee':'trans','area':'side'}","{'cost':'1','effect':''}"
+
+s9007,Protection Code,"{'rarity':'1','userID':'c904','usee':'cis','area':'side'}","{'cost':'0','listener':'roundEnd','effect':''}"
+
+a9007,Retaliation,"{'rarity':'1','userID':'c902','usee':'trans','area':'obj'}","{'cost':'0','listener':'cardStart','effect':''}"

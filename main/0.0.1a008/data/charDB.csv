@@ -1,0 +1,33 @@
+id,name,info,ppty
+
+c000,"Sample Char","{'rarity': '3','zh-name': '中文名','race': 'human','gender': 'female','age': '24','class': 'sailor','affiliate': 'Theseus','dubbing': 'bakaboen','story': '东西太多懒得加，还要格式化好麻烦','dialogue': '理由同上'}","{'health': '40','basicATK': 'print(""我普通攻击！"")'}"
+
+c002,"Frame Atwood","{'rarity': '1', 'class': 'sailor', 'dubbing': '长谷川悠', 'abbr': 'F. Atwood'}","{'health': '10', 'basicATK': 'a0001', 'basicSUP': 's0001', 'death': 'common'}"
+
+c001,"Doven Yaella","{'rarity': '1', 'class': 'sailor', 'abbr': 'D. Yaella'}","{'health': '10', 'basicATK': 'a0001', 'basicSUP': 's0001', 'death': 'common'}"
+
+c003,"Algae","{'rarity': '3', 'class': 'sailor', 'abbr': 'Algae'}","{'health': '10', 'basicATK': 'a0001', 'basicSUP': 's0001', 'death': 'common'}"
+
+c004,"Haru Aya","{'rarity': '3', 'class': 'sailor', 'abbr': 'Haru Aya'}","{'health': '10', 'basicATK': 'a0001', 'basicSUP': 's0001', 'death': 'common'}"
+
+h001,Enemy1,"{'rarity': '1', 'class': 'pirate', 'abbr': 'Enemy1'}","{'health': '10', 'basicATK': 'a0001', 'basicSUP': 's0001', 'death': 'common'}"
+
+
+h002,Enemy2,"{'rarity': '2', 'class': 'pirate', 'abbr': 'Enemy2'}","{'health': '10', 'basicATK': 'a0001', 'basicSUP': 's0001', 'death': 'common'}"
+
+
+h003,Enemy3,"{'rarity': '3', 'class': 'pirate', 'abbr': 'Enemy3'}","{'health': '10', 'basicATK': 'a0001', 'basicSUP': 's0001', 'death': 'common'}"
+
+
+h004,Enemy4,"{'rarity': '0', 'class': 'pirate', 'abbr': 'Enemy4'}","{'health': '10', 'basicATK': 'a0001', 'basicSUP': 's0001', 'death': 'common'}"
+
+
+c005,Sap Char,"{'rarity': '2', 'class': 'sailor', 'abbr': 'Sap Char'}","{'health': '10', 'basicATK': 'a0001', 'basicSUP': 's0001', 'death': 'common'}"
+
+c901,Alice,"{'rarity':'1','class':'sailor'}","{'health':'20','basicATK':'a9001','passive':'s9001','death':'common'}"
+
+c902,Bob,"{'rarity':'1','class':'sailor'}","{'health':'40','basicATK':'a9003','basicSUP':'s9002','passive':'a9007','death':'common'}"
+
+c903,Carol,"{'rarity':'1','class':'sailor'}","{'health':'20','basicATK':'a9004','passive':'s9004','death':'common'}"
+
+c904,Dave,"{'rarity':'1','class':'sailor'}","{'health':'15','basicATK':'a9006','basicSUP':'s9005','passive':'s9007','death':'common'}"

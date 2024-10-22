@@ -1,0 +1,9 @@
+id,name,info,ppty
+
+s0000,"SSSample","{'rarity': '2', 'userID': 'c000'}",{}
+
+s0001,"Sample 2","{'rarity': '3', 'userID': 'c000'}",{}
+
+a0000,SampleATK,"{'rarity': '1', 'userID': 'All'}",{}
+
+m0000,SampleSMN,"{'rarity':'1','userID':'c000'}",{}
